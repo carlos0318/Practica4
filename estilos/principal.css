@@ -1,0 +1,76 @@
+/* 
+Tipos de estilos 
+1.- Estilo de objetos html
+    body{
+        font-family: arial,verdana;
+    }
+2.- Estilo de aplicacion directa
+    #colorEspecial{
+        color: #red;
+    }
+3.- Clases de estilo  
+*/
+
+
+/* ---------------------------------------------------- */
+
+.fontTitulo {
+    font-family: arial, verdana, tahoma;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    text-decoration-line: underline;
+}
+
+.fontVinculos {
+    font-family: arial, verdana, tahoma;
+    font-size: 15px;
+    font-weight: normal;
+    color: blue;
+    text-decoration: none;
+}
+
+.fontEtiqueta {
+    font-family: arial, verdana, tahoma;
+    font-size: 10px;
+    font-weight: normal;
+    color: white;
+}
+
+.fontTrabajoTitulo {
+    font-family: arial, verdana, tahoma;
+    font-size: 15px;
+    font-weight: normal;
+    color: #000080;
+}
+
+.fontTrabajoEtiqueta {
+    font-family: arial, verdana, tahoma;
+    font-size: 12px;
+    font-weight: normal;
+    color: #000080;
+}
+
+.redondeo {
+    border-radius: 10px;
+}
+
+.sombreado {
+    box-shadow: 10px 15px 10px 15px #aaaaaa;
+}
+
+.imgPromocion {
+    width: 110px;
+    height: 130px;
+}
+
+.imgRedes {
+    width: 30px;
+    height: 30px;
+}
+
+.titulo1 {
+    color: black;
+    text-decoration-line: underline;
+    size: 30px;
+}

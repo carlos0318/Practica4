@@ -1,0 +1,34 @@
+.fontTitulo{
+	font-family: arial,verdana;
+	font-size: 20;
+	font-weight: bold;
+	color: white;
+}
+
+.fontEtiquetas{
+	font-family: arial,verdana;
+	font-size: 10;
+	font-weight: normal;
+	color: white;
+}
+
+.fontVinculo{
+	font-family: arial,verdana;
+	font-size: 15;
+	font-weight: normal;
+	color: navy;
+	text-decoration: none;
+}
+
+.borde{
+    border-radius:15px;
+
+}
+
+.sombra{
+    box-shadow:15px 15px  10px 10px #000030;
+}
+/*               15px 15px  20px 20px #5B2C6F
+*/
+
+
